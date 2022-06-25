@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey there, welcome to my profile! 👋
 
-<!--
-**vishakabasnayake/vishakabasnayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on developing systems and algorithms for disaster resiliency using wireless networks. 
+- You can find my research works on https://www.researchgate.net/profile/Vishaka-Basnayake.
+- 🌱 I’m currently learning how to apply programming languages into real life and to a range of fields such as wireless communication, artificial intelligence, optimization, signal processing, automation. 
+- 👯 I’m looking to collaborate on automation, machine learning projects.
+- 🤔 I’m looking for help with webscraping, web development.
+- 💬 Ask me about optimization, machine learning, wireless communication, wireless networking.
+- 📫 How to reach me: 
+      LinkedIn: https://www.linkedin.com/in/vishakabasnayake
+      Gmail: vishakabasnayake@gmail.com.
+- ⚡ Fun fact: I like to engage in community services.
+
+
